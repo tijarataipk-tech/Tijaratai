@@ -2,7 +2,7 @@
 
 > **AI-Powered Business OS for Smarter Business Management**
 
-Tijarat AI is an AI-powered, all-in-one business management platform designed to help businesses manage their **sales, quotations, invoicing, inventory, finance, CRM, reporting, and daily operations** from one intelligent platform.
+Tijarat AI is an AI-powered, all-in-one business management platform designed to help businesses manage their **sales, quotations, invoicing, inventory, finance, reporting, and daily operations** from one intelligent platform.
 
 🌐 **Website:** https://tijaratai.com/
 
@@ -21,7 +21,6 @@ With intelligent automation and real-time business insights, Tijarat AI helps bu
 - 🧾 Create professional quotations and invoices
 - 📦 Manage inventory efficiently
 - 💰 Monitor finances and cash flow
-- 👥 Manage customers and relationships
 - 🤖 Get assistance from AI
 - 📈 Track business performance in real time
 
@@ -76,16 +75,6 @@ Understand your business finances with real-time financial visibility.
 - Audit Trails
 - Multi-Currency Support
 
-### 👥 CRM & Customer Management
-
-Manage customers and business relationships from a centralized platform.
-
-- Customer profiles
-- Customer activity
-- Sales history
-- Follow-ups
-- Payment information
-- Business relationship management
 
 ### 🤖 AI Business Assistant
 
