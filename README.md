@@ -180,11 +180,6 @@ Tijarat AI
 │   ├── General Ledger
 │   └── Financial Reports
 │
-├── CRM
-│   ├── Customers
-│   ├── Sales History
-│   └── Follow-ups
-│
 ├── Analytics
 │   ├── Business Dashboard
 │   ├── Sales Analytics
